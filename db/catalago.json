@@ -1,0 +1,99 @@
+[
+{
+    "id": 1,
+    "nombre" : "Disco 1", 
+    "tipo" : "Disco",
+    "desc" : "Metallica es una banda estadounidense de thrash metal​ originaria de Los Ángeles", 
+    "precio" : 1200,
+    "img" : "./img/img1.jpg"
+},
+{
+    "id": 2,
+    "nombre" : "Disco 2", 
+    "tipo" : "Disco",
+    "desc" : "Metallica es una banda estadounidense de thrash metal​ originaria de Los Ángeles", 
+    "precio" : 1500,
+    "img" : "./img/img2.jpg"
+},
+{
+    "id": 3,
+    "nombre" : "Disco 3", 
+    "tipo" : "Disco",
+    "desc" : "Metallica es una banda estadounidense de thrash metal​ originaria de Los Ángeles", 
+    "precio" : 1600,
+    "img" : "./img/img3.jpg"
+},
+{
+    "id": 4,
+    "nombre" : "Disco 4", 
+    "tipo" : "Disco",
+    "desc" : "Metallica es una banda estadounidense de thrash metal​ originaria de Los Ángeles", 
+    "precio" : 1800,
+    "img" : "./img/img4.jpg"
+},
+{
+    "id": 5,
+    "nombre" : "Disco 5", 
+    "tipo" : "Disco",
+    "desc" : "Metallica es una banda estadounidense de thrash metal​ originaria de Los Ángeles", 
+    "precio" : 1800,
+    "img" : "./img/img5.jpg"
+},
+{
+    "id": 6,
+    "nombre" : "Disco 6", 
+    "tipo" : "Disco",
+    "desc" : "Metallica es una banda estadounidense de thrash metal​ originaria de Los Ángeles", 
+    "precio" : 1800,
+    "img" : "./img/img6.jpg"
+},
+{
+    "id": 7,
+    "nombre" : "Disco 7", 
+    "tipo" : "Disco",
+    "desc" : "Metallica es una banda estadounidense de thrash metal​ originaria de Los Ángeles", 
+    "precio" : 1800,
+    "img" : "./img/img7.jpg"
+},
+{
+    "id": 8,
+    "nombre" : "Disco 8", 
+    "tipo" : "Disco",
+    "desc" : "Metallica es una banda estadounidense de thrash metal​ originaria de Los Ángeles", 
+    "precio" : 1800,
+    "img" : "./img/img8.jpg"
+},
+{
+    "id": 9,
+    "nombre" : "Disco 9", 
+    "tipo" : "Disco",
+    "desc" : "Metallica es una banda estadounidense de thrash metal​ originaria de Los Ángeles", 
+    "precio" : 1800,
+    "img" : "./img/img9.jpg"
+},
+{
+    "id": 10,
+    "nombre" : "Disco 10", 
+    "tipo" : "Disco",
+    "desc" : "Metallica es una banda estadounidense de thrash metal​ originaria de Los Ángeles", 
+    "precio" : 1700,
+    "img" : "./img/img10.jpg"
+},
+{
+    "id": 11,
+    "nombre" : "Disco 11", 
+    "tipo" : "Disco",
+    "desc" : "Metallica es una banda estadounidense de thrash metal​ originaria de Los Ángeles", 
+    "precio" : 1600,
+    "img" : "./img/img11.jpg"
+},
+{
+    "id": 12,
+    "nombre" : "Disco 12", 
+    "tipo" : "Disco",
+    "desc" : "Metallica es una banda estadounidense de thrash metal​ originaria de Los Ángeles", 
+    "precio" : 1400,
+    "img" : "./img/img12.jpg"
+}
+
+]
